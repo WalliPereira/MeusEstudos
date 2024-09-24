@@ -1,15 +1,13 @@
-👋 Olá! Sou Wallisson Pereira, um desenvolvedor Full-Stack.
+<h1>👋 Olá! Me chamo Wallisson Pereira</h1><br>
+<h3>Bem-vindo ao meu repositório! Este é o seu ponto de partida para explorar meu portfólio e os projetos desenvolvidos ao longo da minha jornada como desenvolvedor Full-Stack. Aqui você encontrará uma variedade de trabalhos que demonstram minhas habilidades e criatividade.</h3><br>
 
-Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará uma coleção dos meus projetos pessoais, experimentos e contribuições para a comunidade. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
+<h1>🚀 O que você vai encontrar aqui:</h1><br>
+<h3>
+    <ul style="list-style-type: disc; padding-left: 20px;">
+        <li>Projetos Pessoais: Trabalhos que refletem meu aprendizado e evolução.</li>
+        <li>Aplicações Web: Interfaces e soluções criativas que criei do zero.</li>
+        <li>Contribuições: Experiências e colaborações com a comunidade de desenvolvimento.</li>
+    </ul>
+</h3><br>
 
-🔧 Tecnologias que utilizo:
-
-HTML, CSS, JavaScript
-Node.js, Python, Ruby on Rails
-Git e GitHub
-💡 O que você encontrará aqui:
-
-Projetos que demonstram minha capacidade de resolver problemas
-Aplicações web e interfaces que criei do zero
-Trabalhos que refletem minha evolução como desenvolvedor
-Sinta-se à vontade para explorar, deixar feedback ou entrar em contato!
+<h3>Aproveite a exploração e sinta-se à vontade para experimentar, deixar feedback ou contribuir. Estou sempre aberto a aprender e colaborar!</h3>

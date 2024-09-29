@@ -34,6 +34,8 @@
 
 .card{
     width: 45em;
+    height: 19em;
+    border-radius: 20%;
 }
 
 .tempo-texto {

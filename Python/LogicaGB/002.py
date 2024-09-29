@@ -15,7 +15,6 @@ galoes_3_6_litros = math.ceil(litros_necessarios / 3.6)
 custo_latas_18_litros = latas_18_litros * 80
 custo_galoes_3_6_litros = galoes_3_6_litros * 25
 
-# Exibir os resultados
 print(f'Área a ser pintada: {area} metros quadrados')
 print(f'Litros necessários: {litros_necessarios:.2f} litros')
 print(f'Latas de 18 litros necessárias: {latas_18_litros} latas')
